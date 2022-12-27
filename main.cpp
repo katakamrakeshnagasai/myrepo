@@ -2,9 +2,6 @@
 using namespace std;
 
 
-void insertionsort()
-{
-}
 void mergesort()
 {
 }
@@ -20,4 +17,3 @@ int main()
 	cout<<"Hello World";
 	cout<<"Welcome to mygithub repo";
 }
-
