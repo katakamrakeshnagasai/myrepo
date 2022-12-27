@@ -2,6 +2,9 @@
 using namespace std;
 
 
+void mergesort()
+{
+}
 void quicksort()
 {
 }
